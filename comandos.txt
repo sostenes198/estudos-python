@@ -1,0 +1,51 @@
+Jupyter
+	jupyter notebook
+
+Links: 
+	https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/
+	https://www.lfd.uci.edu/~gohlke/pythonlibs/	
+	
+Comandos Python
+ pip install (.whl extensão com uma séries de pacotes a serem instaldos)
+ pip istall -r (Instalar arquivos de um txt) "Nome Arquivo"
+
+comandos conda
+conda update (nome pacote)  = Para atualizar um pacote
+conda create -n (Nome env) python=x.x(Versão do Python) = Para criar um env
+conda install -n yourenvname [package] = Para instalar um pacote no env atualizar
+conda remove -n yourenvname -all = Para excluir um ambiente pacote do ambiente conda
+conda env remove -n ENV_NAME = Para exlcuir um ambiente conda
+conda env list = Lista todos ambientes virtuais
+conda activate (Nome ambiente virtual) 
+conda deactivate
+
+Documentaçao python
+https://docs.python.org/3/library/index.html
+Built-in Functions
+
+
+Propriedades Percentuais
+	post_hint (Dicionário)
+	x
+	y
+	right 
+	top
+	center_x
+	center_y
+	size_hint (Tupla)
+	size_hint_x
+	size_hint_y
+	
+Propriedades Absolutas
+	size_hint: None,None
+	width
+	heigth
+	size (Tupla)
+	x
+	y
+	pos (Tupla)
+	right
+	top
+	center (Tupla)
+	center_x
+	center_y
