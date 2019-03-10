@@ -1,3 +1,6 @@
+Plugins PyCharm:
+	Database Navigator
+
 Jupyter
 	jupyter notebook
 
