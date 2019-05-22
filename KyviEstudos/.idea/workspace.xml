@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b5c4cf3-d669-4931-acde-585c0c01b05f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +14,11 @@
     <favorites_list name="KyviEstudos" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="db://2a672938-3a25-43d0-866a-693cde670025/consoles/ConnSqlite">
           <provider selected="true" editor-type-id="0.CONSOLE">
-            <state line="16" column="12" selection-start="419" selection-end="419" vertical-scroll-proportion="0.77492875">
+            <state line="16" column="12" selection-start="419" selection-end="419" vertical-scroll-proportion="0.49275362">
               <folding />
             </state>
           </provider>
@@ -101,7 +100,10 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -294,10 +296,10 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918166" weight="0.2470238" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.2470238" />
       <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.2470238" />
       <window_info id="Favorites" order="2" sideWeight="0.5008183" side_tool="true" weight="0.2470238" />
-      <window_info id="DB Browser" order="3" visible="true" weight="0.3296131" />
+      <window_info id="DB Browser" order="3" weight="0.3296131" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" weight="0.37315875" />
@@ -309,7 +311,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50074404" side_tool="true" weight="0.3371522" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="DB Execution Console" order="11" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="DB Execution Console" order="11" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -661,7 +663,7 @@
     </entry>
     <entry file="db://2a672938-3a25-43d0-866a-693cde670025/consoles/ConnSqlite">
       <provider selected="true" editor-type-id="0.CONSOLE">
-        <state line="16" column="12" selection-start="419" selection-end="419" vertical-scroll-proportion="0.77492875">
+        <state line="16" column="12" selection-start="419" selection-end="419" vertical-scroll-proportion="0.49275362">
           <folding />
         </state>
       </provider>
