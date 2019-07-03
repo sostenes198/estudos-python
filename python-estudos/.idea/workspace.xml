@@ -5,47 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="810a6cd2-1340-40c4-a546-14c0dcb923b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/colecoes/collection_counter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/colecoes/collection_deque.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/colecoes/conjuntos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/colecoes/default_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/colecoes/dicionarios.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/colecoes/lista.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/colecoes/mapas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/colecoes/named_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/colecoes/order_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/colecoes/tupla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/comprhensions/dictionary_comprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/comprhensions/list_comprehensions_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/comprhensions/list_comprehensions_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/comprhensions/listas_aninhadas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/comprhensions/set_comprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/condicionais/estruturas_if_else_elif.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/condicionais/estruturas_logicas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/estruturas_de_repeticao/loop_break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/estruturas_de_repeticao/loop_for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/estruturas_de_repeticao/loop_while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/estruturas_de_repeticao/range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/funcoes/definicao_funcao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/funcoes/documento_funcoes_com_docstring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/funcoes/entendo_asterisco_args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/funcoes/entendo_kwargs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/funcoes/funcoes_com_parametro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/funcoes/funcoes_com_parametros_padrao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/funcoes/funcoes_com_retorno.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/generico/dir_e_help.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/generico/pep8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/generico/recebendo_dados_do_usuario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/lambdas/utilizando_lambadas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/tipo_de_dados/escopo_de_variaveis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/tipo_de_dados/tipo_booleano.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/tipo_de_dados/tipo_float.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/tipo_de_dados/tipo_none.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/tipo_de_dados/tipo_numerico.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/tipo_de_dados/tipo_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KyviEstudos/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KyviEstudos/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KyviEstudos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KyviEstudos/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudos/funcoes_integradas/any_all.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudos/funcoes_integradas/filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudos/funcoes_integradas/generators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudos/funcoes_integradas/map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudos/funcoes_integradas/reduce.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comandos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../comandos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudos/lambdas/utilizando_lambadas.py" beforeDir="false" afterPath="$PROJECT_DIR$/estudos/funcoes_integradas/utilizando_lambadas.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,11 +22,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/estudos/lambdas/utilizando_lambadas.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/estudos/funcoes_integradas/any_all.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="299">
+              <caret line="26" column="22" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/estudos/funcoes_integradas/generators.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="48" column="20" lean-forward="true" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -119,6 +95,12 @@
         <option value="$PROJECT_DIR$/estudos/comprhensions/dictionary_comprehension.py" />
         <option value="$PROJECT_DIR$/estudos/comprhensions/set_comprehension.py" />
         <option value="$PROJECT_DIR$/estudos/lambdas/utilizando_lambadas.py" />
+        <option value="$PROJECT_DIR$/estudos/funcoes_integradas/map.py" />
+        <option value="$PROJECT_DIR$/estudos/funcoes_integradas/filter.py" />
+        <option value="$PROJECT_DIR$/estudos/funcoes_integradas/reduce.py" />
+        <option value="$PROJECT_DIR$/estudos/funcoes_integradas/any_all.py" />
+        <option value="$PROJECT_DIR$/estudos/funcoes_integradas/generator.py" />
+        <option value="$PROJECT_DIR$/estudos/funcoes_integradas/generators.py" />
       </list>
     </option>
   </component>
@@ -152,7 +134,7 @@
               <item name="python-estudos" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-estudos" type="462c0819:PsiDirectoryNode" />
               <item name="estudos" type="462c0819:PsiDirectoryNode" />
-              <item name="lambdas" type="462c0819:PsiDirectoryNode" />
+              <item name="funcoes_integradas" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -162,7 +144,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -181,7 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.utilizando_lambadas">
+  <component name="RunManager" selected="Python.generators">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="python-estudos" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dictionary_comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="any_all" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-estudos" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,11 +194,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Python_Anacoda3\envs\pk37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estudos/comprhensions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estudos/funcoes_integradas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="false" />
       <option name="ADD_SOURCE_ROOTS" value="false" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudos/comprhensions/dictionary_comprehension.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudos/funcoes_integradas/any_all.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,7 +207,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_comprehensions_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="filter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-estudos" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,11 +215,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Python_Anacoda3\envs\pk37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estudos/comprhensions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estudos/funcoes_integradas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="false" />
       <option name="ADD_SOURCE_ROOTS" value="false" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudos/comprhensions/list_comprehensions_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudos/funcoes_integradas/filter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,7 +228,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listas_aninhadas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="generators" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-estudos" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,11 +236,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Python_Anacoda3\envs\pk37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estudos/comprhensions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estudos/funcoes_integradas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="false" />
       <option name="ADD_SOURCE_ROOTS" value="false" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudos/comprhensions/listas_aninhadas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudos/funcoes_integradas/generators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,7 +249,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="set_comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="map" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-estudos" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,11 +257,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Python_Anacoda3\envs\pk37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estudos/comprhensions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estudos/funcoes_integradas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="false" />
       <option name="ADD_SOURCE_ROOTS" value="false" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudos/comprhensions/set_comprehension.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudos/funcoes_integradas/map.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,7 +270,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="utilizando_lambadas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="reduce" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-estudos" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -295,11 +278,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Python_Anacoda3\envs\pk37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estudos/lambdas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estudos/funcoes_integradas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="false" />
       <option name="ADD_SOURCE_ROOTS" value="false" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudos/lambdas/utilizando_lambadas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudos/funcoes_integradas/reduce.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,11 +293,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.utilizando_lambadas" />
-        <item itemvalue="Python.set_comprehension" />
-        <item itemvalue="Python.dictionary_comprehension" />
-        <item itemvalue="Python.listas_aninhadas" />
-        <item itemvalue="Python.list_comprehensions_2" />
+        <item itemvalue="Python.generators" />
+        <item itemvalue="Python.any_all" />
+        <item itemvalue="Python.reduce" />
+        <item itemvalue="Python.filter" />
+        <item itemvalue="Python.map" />
       </list>
     </recent_temporary>
   </component>
@@ -340,9 +323,9 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="DB Browser" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29787233" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2973396" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39906102" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -414,31 +397,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/estudos/condicionais/estruturas_if_else_elif.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estudos/condicionais/estruturas_logicas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/estudos/estruturas_de_repeticao/loop_for.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="901">
           <caret line="53" column="60" selection-start-line="53" selection-start-column="60" selection-end-line="53" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estudos/estruturas_de_repeticao/range.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -453,13 +415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estudos/colecoes/lista.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="181" column="1" selection-start-line="181" selection-start-column="1" selection-end-line="181" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -488,48 +443,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estudos/funcoes/definicao_funcao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estudos/funcoes/funcoes_com_retorno.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estudos/funcoes/funcoes_com_parametro.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estudos/funcoes/funcoes_com_parametros_padrao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estudos/funcoes/documento_funcoes_com_docstring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estudos/funcoes/entendo_asterisco_args.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="82" selection-start-line="18" selection-start-column="82" selection-end-line="18" selection-end-column="82" />
         </state>
       </provider>
     </entry>
@@ -575,20 +488,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/estudos/colecoes/dicionarios.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1785">
-          <caret line="105" column="52" selection-start-line="105" selection-start-column="52" selection-end-line="105" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estudos/comprhensions/list_comprehensions_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="72" column="43" selection-start-line="72" selection-start-column="43" selection-end-line="72" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/estudos/comprhensions/list_comprehensions_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -603,13 +502,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/estudos/comprhensions/dictionary_comprehension.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="18" column="63" lean-forward="true" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/estudos/comprhensions/set_comprehension.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -617,10 +509,136 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/estudos/lambdas/utilizando_lambadas.py">
+    <entry file="file://$PROJECT_DIR$/estudos/comprhensions/dictionary_comprehension.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
+        <state relative-caret-position="306">
+          <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estudos/colecoes/dicionarios.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="105" column="52" selection-start-line="105" selection-start-column="52" selection-end-line="105" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estudos/condicionais/estruturas_if_else_elif.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estudos/comprhensions/list_comprehensions_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estudos/funcoes/definicao_funcao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estudos/funcoes/documento_funcoes_com_docstring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estudos/funcoes/entendo_asterisco_args.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="82" selection-start-line="18" selection-start-column="82" selection-end-line="18" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estudos/funcoes/funcoes_com_parametros_padrao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estudos/funcoes/funcoes_com_retorno.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estudos/estruturas_de_repeticao/range.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estudos/condicionais/estruturas_logicas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estudos/funcoes/funcoes_com_parametro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estudos/colecoes/lista.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="181" column="1" selection-start-line="181" selection-start-column="1" selection-end-line="181" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estudos/funcoes_integradas/utilizando_lambadas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
           <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estudos/funcoes_integradas/map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="48" column="90" selection-start-line="48" selection-start-column="90" selection-end-line="48" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estudos/funcoes_integradas/filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estudos/funcoes_integradas/reduce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="46" column="7" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estudos/funcoes_integradas/any_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estudos/funcoes_integradas/generators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="48" column="20" lean-forward="true" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
         </state>
       </provider>
     </entry>
