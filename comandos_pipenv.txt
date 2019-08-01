@@ -1,0 +1,21 @@
+python index package = pip -v
+
+pipenv install
+pipenv install --dev
+
+Criar gerenciador de pacotes python3 = pipenv --three
+Criar gerenciador de pacotes python2 = pipenv --two
+
+
+utilizar comonados sem ativar o ambiente:
+pipenv run <command>
+
+
+listar as bibliotecas instaladas em nosso virtualenv:
+pipenv run pip freeze
+
+ativar ambiente:
+pipenv shell
+
+Atualizar pacote:
+pipenv update <pacote>

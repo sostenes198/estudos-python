@@ -12,18 +12,6 @@ Comandos Python
  pip install (.whl extensão com uma séries de pacotes a serem instaldos)
  pip istall -r (Instalar arquivos de um txt) "Nome Arquivo"
 
-comandos conda
-conda update (nome pacote)  = Para atualizar um pacote
-conda create -n (Nome env) python=x.x(Versão do Python) = Para criar um env
-conda install -n yourenvname [package] = Para instalar um pacote no env atualizar
-conda remove -n yourenvname -all = Para excluir um ambiente pacote do ambiente conda
-conda env remove -n ENV_NAME = Para exlcuir um ambiente conda
-conda list = Lista todos pacotes instalados no ambiente
-conda update -all = Atualizate todos pacotes do ambiente
-conda env list = Lista todos ambientes virtuais
-conda activate (Nome ambiente virtual) 
-conda deactivate
-
 Documentaçao python
 https://docs.python.org/3/library/index.html
 Built-in Functions

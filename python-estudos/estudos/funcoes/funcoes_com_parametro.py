@@ -12,12 +12,13 @@
     # Argumentos são dados passados durante a execução de uma função
 """
 
+
 def quadrado(numero):
     return numero * 2
-
 # Argumentos nomeados, quando utilizado argumentos nomeados para informa-los, podemos utilizar em qualquer ordem
 
-def nome_completo (nome, sobrenome):
+def nome_completo(nome, sobrenome):
     print(f'Nome: {nome} \nSobrenome:{sobrenome}')
 
-print(nome_completo(nome="Sóso", sobrenome="Dois_Hit"))
+if __name__ == '__main__':
+    print(nome_completo(nome="Sóso", sobrenome="Dois_Hit"))
