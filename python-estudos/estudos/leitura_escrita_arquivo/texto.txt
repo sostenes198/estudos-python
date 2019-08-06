@@ -1,0 +1,3 @@
+Escrever em arquivos é izi
+Podemos escrever quantas linhas quisermos
+Essa é a ultima linha
